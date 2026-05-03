@@ -1,7 +1,6 @@
 # CodeAlpha_Calculator-
 
-⚙️ Features
-
+⚙️ Features....
 ➕ Basic Operations
 Addition (+)
 Subtraction (−)
