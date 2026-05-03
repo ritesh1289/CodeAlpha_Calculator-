@@ -6,6 +6,7 @@ Addition (+)
 Subtraction (−)
 Multiplication (×)
 Division (÷)
+-------------------------------------------------------------------------------------------------------------------
 🎨 User Interface
 Dark theme with gradient background
 Stylish buttons with hover effects
