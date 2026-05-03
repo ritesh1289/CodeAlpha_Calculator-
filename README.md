@@ -1,28 +1,14 @@
-# CodeAlpha_Calculator-
+A simple and responsive calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations with a modern UI and keyboard input.
 
-⚙️ Features....
-➕ Basic Operations
-Addition (+)
-Subtraction (−)
-Multiplication (×)
-Division (÷)
--------------------------------------------------------------------------------------------------------------------
-🎨 User Interface
-Dark theme with gradient background
-Stylish buttons with hover effects
-Neon green display screen
-Grid-based layout for clean alignment
-⌨️ Keyboard Support
-Use keyboard for input
-Enter → Calculate
-Backspace → Delete
-Escape → Clear
-🔧 Functional Controls
-C → Clear display
-⌫ → Delete last input
-= → Calculate result
-Decimal support (.)
-💻 Technologies Used
-HTML → Structure
-CSS → Styling & layout
-JavaScript → Functionality & logic
+🚀 Features
+➕ Addition, ➖ Subtraction, ✖ Multiplication, ➗ Division
+🎨 Dark theme UI with hover effects
+⌨️ Keyboard support (Enter, Backspace, Escape)
+🔢 Decimal support
+🛠️ Technologies
+HTML
+CSS
+JavaScript
+▶️ How to Run
+Download or clone the project
+Open index.html in your browser
